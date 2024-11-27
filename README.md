@@ -19,6 +19,6 @@ O conteúdo é ideal para iniciantes na área ou curiosos interessados em compre
 ## 📥 Como Acessar
 O e-book está disponível para download neste repositório no formato PDF.
 
-[Baixar o e-book em PDF]([./book-inteligencia-artificial.pdf](https://github.com/siqueirago/e-book-inteligencia-artificial/blob/main/Ebook%20Intelig%C3%AAncia%20Artificial%20-Uma%20introdu%C3%A7%C3%A3o%20para%20iniciantes.pdf))
+[Baixar o e-book em PDF](https://github.com/siqueirago/e-book-inteligencia-artificial/blob/main/Ebook%20Intelig%C3%AAncia%20Artificial%20-Uma%20introdu%C3%A7%C3%A3o%20para%20iniciantes.pdf)
 
 Aproveite a leitura!
