@@ -19,5 +19,6 @@ O conteúdo é ideal para iniciantes na área ou curiosos interessados em compre
 ## 📥 Como Acessar
 O e-book está disponível para download neste repositório no formato PDF.
 
-* Clique em Download PDF.
+*[Baixar o e-book em PDF](./nome-do-arquivo.pdf)
+
 * Aproveite a leitura!
